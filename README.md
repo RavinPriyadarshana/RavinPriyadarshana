@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **React, Java, Java Script, php, Mongo db, Python, Spring Boot, Laravel**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **ravinpriyadarshanaperera1030@gmail.com**
 
