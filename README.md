@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravin Priyadarshana</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full stack Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravinpriyadarshana&label=Profile%20views&color=0e75b6&style=flat" alt="ravinpriyadarshana" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **"FarmVigilance" Agricultural Insects Identification System**
 
-- 🌱 I’m currently learning **React, Java, Java Script, php, Mongo db, Python, Spring Boot**
+- 🌱 I’m currently learning **React, Java, Java Script, php, Mongo db, Python, Spring Boot, Laravel**
 
 - 📫 How to reach me **ravinpriyadarshanaperera1030@gmail.com**
 
-- ⚡ Fun fact **Call me as RV**
+- ⚡ Fun fact **Call me as Ravin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
